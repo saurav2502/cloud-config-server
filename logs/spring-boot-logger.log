@@ -1,0 +1,16 @@
+2020-03-25 21:30:50,176 INFO org.springframework.boot.SpringApplication [main] The following profiles are active: qa
+2020-03-25 21:30:51,534 INFO org.springframework.cloud.context.scope.GenericScope [main] BeanFactory id=fcb0076d-ec8a-3bc3-83c1-e3e163ee78f4
+2020-03-25 21:30:52,817 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 8888 (http)
+2020-03-25 21:30:52,833 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing ProtocolHandler ["http-nio-8888"]
+2020-03-25 21:30:52,833 INFO org.apache.juli.logging.DirectJDKLog [main] Starting service [Tomcat]
+2020-03-25 21:30:52,833 INFO org.apache.juli.logging.DirectJDKLog [main] Starting Servlet engine: [Apache Tomcat/9.0.31]
+2020-03-25 21:30:53,161 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing Spring embedded WebApplicationContext
+2020-03-25 21:30:53,161 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 2969 ms
+2020-03-25 21:30:54,836 INFO org.springframework.scheduling.concurrent.ExecutorConfigurationSupport [main] Initializing ExecutorService 'applicationTaskExecutor'
+2020-03-25 21:30:55,963 INFO org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver [main] Exposing 15 endpoint(s) beneath base path '/actuator'
+2020-03-25 21:30:56,027 INFO org.apache.juli.logging.DirectJDKLog [main] Starting ProtocolHandler ["http-nio-8888"]
+2020-03-25 21:30:56,060 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat started on port(s): 8888 (http) with context path ''
+2020-03-25 21:30:56,669 INFO org.springframework.boot.StartupInfoLogger [main] Started CloudConfigServerApplication in 8.588 seconds (JVM running for 9.217)
+2020-03-25 21:31:42,675 INFO org.apache.juli.logging.DirectJDKLog [http-nio-8888-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-03-25 21:31:42,676 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8888-exec-1] Initializing Servlet 'dispatcherServlet'
+2020-03-25 21:31:42,687 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8888-exec-1] Completed initialization in 10 ms

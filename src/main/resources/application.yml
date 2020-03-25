@@ -1,0 +1,19 @@
+#server:
+#  port: 8888
+#
+#spring:
+#  application:
+#    name: config_server
+#  profiles:
+#    active: qa
+#    label : test
+#  cloud:
+#    config:
+#      server:
+#        git:
+#          uri: https://github.com/chuchip/servercloudconfig.git
+#
+#
+#limit-service:
+#  minimun: 9
+#  maximun: 9999
