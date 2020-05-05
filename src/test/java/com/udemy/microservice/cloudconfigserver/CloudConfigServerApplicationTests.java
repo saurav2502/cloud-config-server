@@ -8,6 +8,12 @@ class CloudConfigServerApplicationTests {
 
 	@Test
 	void contextLoads() {
+		
 	}
+
+
+
+
+
 
 }
